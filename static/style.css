@@ -47,6 +47,14 @@ body {
   white-space: nowrap;
 }
 
+.intro .body {
+  display: block;
+  font-size: 20px;
+  font-weight: 700;
+  color: #fff;
+  text-shadow: 0 2px 4px #004b8d;
+}
+
 .sizer {
   border-radius: 100%;
   z-index: 1;
